@@ -1,0 +1,16 @@
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\HW11\obj\Debug\net5.0\HW11.csproj.AssemblyReference.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\HW11\obj\Debug\net5.0\HW11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\HW11\obj\Debug\net5.0\HW11.AssemblyInfoInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\HW11\obj\Debug\net5.0\HW11.AssemblyInfo.cs
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\HW11\obj\Debug\net5.0\HW11.csproj.CoreCompileInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.exe
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.deps.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.runtimeconfig.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.runtimeconfig.dev.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\ref\HW11.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\bin\Debug\net5.0\HW11.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\obj\Debug\net5.0\HW11.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\obj\Debug\net5.0\ref\HW11.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\obj\Debug\net5.0\HW11.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW11\HW11\Hw11\obj\Debug\net5.0\HW11.genruntimeconfig.cache
